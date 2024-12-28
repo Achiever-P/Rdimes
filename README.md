@@ -2,7 +2,8 @@
 
 A visually captivating gaming website built using React and Tailwind CSS, inspired by the elegant and modern design principles of Zentry. This project showcases advanced animations, a luxurious aesthetic, and smooth user interactions, tailored for gaming enthusiasts.
 
-Technologies Used
+Technologies Used -
+
 React: For building dynamic and reusable components, ensuring a smooth user interface.
 Tailwind CSS: To style the website with a modern, responsive, and minimalist design.
 GSAP (GreenSock Animation Platform): For creating advanced animations, including scroll-triggered effects and animated titles.
