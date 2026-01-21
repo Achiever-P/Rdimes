@@ -1,6 +1,6 @@
 # RDimens
 
-A highly interactive, award-style gaming website inspired by **zentry.com**, built using **React**, **Tailwind CSS**, and **GSAP**. This project demonstrates how a single developer can create a visually stunning, animation-rich web experience with modern frontend tools.
+A highly interactive gaming website built using **React**, **Tailwind CSS**, and **GSAP**. This project demonstrates how a single developer can create a visually stunning, animation-rich web experience with modern frontend tools.
 
 ![Screenshot 2024-12-27 204646](https://github.com/user-attachments/assets/00280cb8-060b-4d3c-a7f9-5909b8cd993c)
 
